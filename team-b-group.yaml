@@ -22,14 +22,3 @@ spec:
     email: amelia-park@example.com
     picture: https://avatars.dicebear.com/api/avataaars/amelia-park@example.com.svg?background=%23fff
   memberOf: [team-a]
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: colette.outro
-spec:
-  profile:
-    displayName: Colette Brock
-    email: colette-brock@example.com
-    picture: https://avatars.dicebear.com/api/avataaars/colette-brock@example.com.svg?background=%23fff
-  memberOf: [team-a]
